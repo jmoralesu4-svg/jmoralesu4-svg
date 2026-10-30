@@ -3,7 +3,7 @@
   <!-- BANNER ANIMADO TIPO TYPING -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=100&lines=Ing.+Jos%C3%A9+Luis+Morales;Rob%C3%B3tica+%7C+Automatizaci%C3%B3n;Dom%C3%B3tica+%7C+Desarrollo+Web" alt="Typing SVG" />
 
-  <br />
+  <br /> 
 
   <!-- BOTONES DE CONTACTO -->
   <a href="https://github.com/jmoralesu4-svg" target="_blank">
