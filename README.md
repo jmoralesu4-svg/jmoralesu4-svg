@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ing.%20Jos%C3%A9%20Luis%20Morales&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
 
-<div align="center">
+  <h3 align="center" style="color: #00b4d8;">
+    Robótica &nbsp;|&nbsp; Automatización &nbsp;|&nbsp; Domótica &nbsp;|&nbsp; Desarrollo Web
+  </h3>
+
+  <br />
 
   <a href="https://github.com/jmoralesu4-svg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -12,6 +15,8 @@
   </a>
 
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jmoralesu4-svg&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
