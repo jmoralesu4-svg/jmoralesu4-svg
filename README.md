@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Richard%20Sasvin%20Ortiz&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-<!--
-**jmoralesu4-svg/jmoralesu4-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jmoralesu4-svg&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+```javascript
+const richard = {
+    location: "Petén, Guatemala 🇬🇹",
+    university: "Universidad Mariano Gálvez",
+    role: "Ingeniero en Sistemas",
+    specialties: [
+        "Robótica y Robótica de Combate",
+        "Automatización Industrial",
+        "Domótica Residencial",
+        "Desarrollo Web"
+    ],
+    stack: ["Python", "C++", "Arduino", "React", "HTML/CSS"],
+    level: "Avanzado - Hardware & Software Integration",
+    philosophy: "Diseñar soluciones prácticas y eficientes mediante la experimentación y el desarrollo técnico continuo."
+};
