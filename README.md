@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Richard%20Sasvin%20Ortiz&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jos%C3%A9%20Luis%20Morales&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/jmoralesu4-svg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:tucorreo@gmail.com">
@@ -25,7 +25,7 @@
 ## 🚀 Sobre mí
 
 ```javascript
-const richard = {
+const joseLuis = {
     location: "Petén, Guatemala 🇬🇹",
     university: "Universidad Mariano Gálvez",
     role: "Ingeniero en Sistemas",
