@@ -1,9 +1,12 @@
 <div align="center">
 
-  <!-- BANNER ANIMADO TIPO TYPING -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=100&lines=Ing.+Jos%C3%A9+Luis+Morales;Rob%C3%B3tica+%7C+Automatizaci%C3%B3n;Dom%C3%B3tica+%7C+Desarrollo+Web" alt="Typing SVG" />
+  <!-- BANNER PRINCIPAL CON TU NOMBRE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ing.%20Jos%C3%A9%20Luis%20Morales&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <br /> 
+  <!-- SUBTÍTULO ANIMADO TIPO ECSCRIBANÍA -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=50&lines=Rob%C3%B3tica+%7C+Automatizaci%C3%B3n;Dom%C3%B3tica+%7C+Desarrollo+Web;Hardware+%26+Software+Integration" alt="Typing SVG" />
+
+  <br /><br />
 
   <!-- BOTONES DE CONTACTO -->
   <a href="https://github.com/jmoralesu4-svg" target="_blank">
